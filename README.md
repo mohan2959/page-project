@@ -1,3 +1,6 @@
+# 📄 Mohamed's GitHub README
+
+```markdown
 # 👋 Hi, I'm Mohamed!
 
 I'm a passionate **Web Developer** with experience in **Frontend Development** using **HTML**, **CSS**, **JavaScript**, **React.js**, and **Bootstrap**. I'm also deeply interested in **UI/UX design** and **Python** development.
@@ -9,15 +12,15 @@ I'm a passionate **Web Developer** with experience in **Frontend Development** u
 - 📈 Actively taking part in the **#100DaysOfCode** challenge to boost my skills
 
 ## 🛠️ Technologies & Tools
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)
-![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)
-![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" />
 
 ## 💼 Projects I’m Working On:
 - **React To-Do App**: A task management web app built with React.
